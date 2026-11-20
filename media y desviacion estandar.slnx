@@ -1,11 +1,20 @@
 <Solution>
   <Folder Name="/docs/" />
   <Folder Name="/docs/Diseño/">
+    <File Path="diseño-de-clases.md" />
     <File Path="pseudocodigo.md" />
+    <File Path="Traza-de-escritorio.md" />
   </Folder>
   <Folder Name="/docs/planeacion/">
     <File Path="estimacion.md" />
     <File Path="requisitos.md" />
+  </Folder>
+  <Folder Name="/media y desviacion estandar/">
+    <File Path="CalculadoraEstadistica.cs" />
+    <File Path="Elementos de la solución/Program.cs" />
+    <File Path="LectorArchivoNumeros.cs" />
+    <File Path="ListaEnlazada.cs" />
+    <File Path="Nodo.cs" />
   </Folder>
   <Project Path="../../../../../source/repos/media y desviacion estandar/media y desviacion estandar/media y desviacion estandar.csproj" />
 </Solution>
