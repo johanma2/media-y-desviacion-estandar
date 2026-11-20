@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/docs/Diseño/">
+    <File Path="pseudocodigo.md" />
+  </Folder>
+  <Folder Name="/docs/planeacion/">
+    <File Path="estimacion.md" />
+    <File Path="requisitos.md" />
+  </Folder>
+  <Project Path="../../../../../source/repos/media y desviacion estandar/media y desviacion estandar/media y desviacion estandar.csproj" />
+</Solution>
